@@ -1,5 +1,10 @@
 # Medical Question Answering Assistant
 
+<p align="center">
+  <img src="images/Medical_QnA_Assistant_ProjectLogo.png">
+</p>
+
+
 ## Overview
 The goal of this project is to create an AI-driven medical question answering system that uses the MedQuAD dataset as the knowledge base. The model is trained to handle various medical inquiries from patients and healthcare professionals, aiming to improve access to high-quality medical information.
 
