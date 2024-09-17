@@ -203,12 +203,12 @@ your logs:
 ```
 Database timezone: Etc/UTC
 Database current time (UTC): 2024-08-24 00:43:12.169624+00:00
-Database current time (America/New_York): 2024-08-24 02:43:12.169624+02:00
-Python current time: 2024-08-24 02:43:12.170246+02:00
+Database current time (America/New_York): 2024-08-24 20:43:12.169624+02:00
+Python current time: 2024-08-24 20:43:12.170246+02:00
 Inserted time (UTC): 2024-08-24 00:43:12.170246+00:00
-Inserted time (Europe/Berlin): 2024-08-24 02:43:12.170246+02:00
+Inserted time (America/New_York): 2024-08-24 20:43:12.170246+02:00
 Selected time (UTC): 2024-08-24 00:43:12.170246+00:00
-Selected time (Europe/Berlin): 2024-08-24 02:43:12.170246+02:00
+Selected time (America/New_York): 2024-08-24 20:43:12.170246+02:00
 ```
 
 Make sure the time is correct.
