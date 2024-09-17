@@ -349,7 +349,7 @@ for examples on how to interact with the application.
 
 The ingestion script is in [`ingest.py`](medical_question_answering_assistant/ingest.py).
 
-Since we use an in-memory database, `minsearch`, as our medical_question_answering_assistant of the application.
+Since we use an in-memory database, `minsearch`, as our knowledge base, we run the ingestion script at the startup of the application.
 
 It's executed inside [`rag.py`](medical_question_answering_assistant/rag.py) when we import it.
 
